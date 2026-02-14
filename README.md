@@ -44,24 +44,28 @@ https://quarxiv.authorea.com/doi/full/10.22541/au.175742499.91593901/v1
 ##  Tech Stack
 
 ### Cloud & Infra
-- Google Cloud Platform (Cloud Run, VPC, Cloud SQL, Secret Manager)
-- Terraform
-- Docker
-- GitHub Actions
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
 
 ### AI / ML
-- NLP
-- Transformer-based systems
-- RAG pipelines
-- Prompt Engineering
-- Model evaluation & deployment thinking
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge)
+
+---
 
 ### Backend / Data
-- Python
-- Django
-- PostgreSQL / MySQL / MongoDB
-- Scrapy
-- Selenium
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
 
 ---
 
