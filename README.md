@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Utsav 👋
 
-<!--
-**USharpUtsav/USharpUtsav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevSecOps Engineer building secure AI infrastructure and production-ready ML systems.
 
-Here are some ideas to get you started:
+Currently focused on:
+- Cloud-native model hosting
+- Secure LLM deployment
+- AI infra design
+- Modern architectures (DeepSeek-style thinking & Kimi direction)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Work On
+
+- Deploying AI systems on GCP
+- Private model inference infra
+- RAG pipelines
+- Secure CI/CD for ML
+- Terraform-based cloud architecture
+
+---
+
+## 🧠 Current Focus
+
+Exploring:
+
+- Model hosting in cloud environments
+- Efficient inference systems
+- Hybrid reasoning architectures
+- Next-gen AI infra patterns
+
+---
+
+## 🔗 Featured Work
+
+Chatbot RAG System  
+https://github.com/USharpUtsav/ChatBot-QA-Contact-Booking
+
+Automation Scraper  
+https://github.com/USharpUtsav/Wedding-Web-Scrapping-
+
+---
+
+📫 Reach me: 9utsavadhikari9@gmail.com
